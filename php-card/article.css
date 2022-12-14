@@ -1,0 +1,36 @@
+body
+{
+    background-color: white;
+}
+
+
+.card
+{
+    border: 1px solid white ;
+    width: 300px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 3px 3px 0 grey;
+}
+
+.card-body
+{
+    text-align: center;
+}
+
+.card-img
+{
+    width: 300px;
+    border-radius: 10px 10px 0 0;
+}
+
+.card-title
+{
+    color: brown;
+    font-size: 28px;
+}
+.card-text
+{
+    text-align: justify;
+
+}

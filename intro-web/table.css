@@ -1,0 +1,21 @@
+td
+{
+    border: 1px solid steelblue;
+    padding: 10px;
+    text-align: center;
+}
+
+table
+{
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th
+{
+    padding: 10px;
+    text-align: center;
+    background: steelblue;
+    border: 1px solid steelblue;
+}
+
