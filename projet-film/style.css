@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1
+{
+    text-align: center;
+}
+
+.card
+{
+    border: 1px solid white ;
+    width: 300px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 3px 3px 0 grey;
+}
+
+.card-image
+{
+    width: 300px;
+}
+
+.card-titre-film
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+.card-année
+{
+    float: left;
+    color: coral;
+    padding-left: 5px;
+}
+
+.card-duree
+{
+    float: right;
+    color: coral;
+    padding-right: 5px;
+}
+
+.gras
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+.card-realisateur
+{
+    text-align: center;
+}

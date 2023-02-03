@@ -63,3 +63,41 @@ i
     color: white;
     font-weight: bold;
 }
+
+td
+{
+    border: 1px solid grey;
+    padding: 10px;
+}
+
+table
+{
+    border-collapse: collapse;
+}
+
+th
+{
+    background-color: coral;
+    border: 1px solid coral;
+    padding: 10px;
+}
+
+.boutton
+{
+    padding: 5px;
+    color: white;
+    background-color: coral;
+    border-radius: 8px;
+    margin: 5px;
+    text-decoration: none;
+}
+
+.prem
+{
+    padding: 5px;
+    background-color: limegreen;
+    border-radius: 8px;
+    margin: 5px;
+    text-decoration: none;
+    color: black;
+}
